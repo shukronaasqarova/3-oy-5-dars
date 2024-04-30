@@ -24,12 +24,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* padding-top: 26px;
-    padding-bottom: 26px; */
-    /* box-shadow: 1px 5px 5px 1px #091E24; */
     width: 100%;
-    /* position: fixed; */
-    /* z-index: 10; */
     background-color: white;
 }
 
